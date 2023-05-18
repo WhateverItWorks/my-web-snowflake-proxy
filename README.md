@@ -7,7 +7,7 @@ https://scidsg.github.io/relaylove/<br>
 https://whateveritworks.github.io/my-web-snowflake-proxy/ (my instance)<br>
 https://snowflake.whateveritworks.org (my instance) 
 
-## Leave browser tap open so people can connect to your proxy
+## Leave browser tab open so people can connect to your proxy
 ❄️ Help censored users bypass their restrictions put by their ISP/Governments.
 
 ![rl](https://user-images.githubusercontent.com/28545431/216750638-406fb29b-0474-4516-a82b-c06dd06c5e5a.png)
