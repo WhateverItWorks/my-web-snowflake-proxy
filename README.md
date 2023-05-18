@@ -3,8 +3,9 @@
 ### Instances
 https://relay.love<br>
 [mfhwtydqwv3jcjt2wumjmqww2llltfaqdbivu3hcmcnkhj5dvxjxiaid.onion](http://mfhwtydqwv3jcjt2wumjmqww2llltfaqdbivu3hcmcnkhj5dvxjxiaid.onion)<br>
-https://scidsg.github.io/relaylove/
-https://whateveritworks.github.io/snowflake-proxy/ (my instance)
+https://scidsg.github.io/relaylove/<br>
+https://whateveritworks.github.io/snowflake-proxy/ (my instance)<br>
+https://snowflake.whateveritworks.org (my instance) 
 
 ## Leave browser tap open so people can connect to your proxy
 ❄️ Help censored users bypass their restrictions put by their ISP/Governments.
